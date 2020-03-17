@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum_PBB_A_2020</string>
+    <string name="btn_1">pertemuan 1</string>
+    <string name="name">Nama</string>
+    <string name="txt_calc_bmi">Hitung BMI</string>
+    <string name="txt_bb">BB</string>
+    <string name="txt_tb">TB</string>
+    <string name="b_klik">klik</string>
+</resources>
